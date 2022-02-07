@@ -291,7 +291,6 @@ main aside .title h2 {
      .header .search-box {
          display: flex;
          align-items: center;
-         flex-direction:column;
      }
 
      .profile-content h2 {
